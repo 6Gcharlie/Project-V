@@ -1,2 +1,1 @@
-# Project-V
-Horror VN
+# Stone Heart
